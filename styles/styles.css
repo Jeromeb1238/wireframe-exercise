@@ -1,3 +1,53 @@
+* {
+  /* text-align: center; */
+}
+
+body {
+  border: black 2px solid;
+  width: 1200px;
+  /* vertical-align: top; */
+}
+header {
+  width: 1100px;
+  height: 200;
+  left: 10
+  100px;
+  border: solid black 2px;
+}
+header img {
+  left: 70px;
+  /* background-color: darkgrey; */
+}
+nav {
+  width: 500px;
+  display: inline;
+  text-align: center;
+
+}
+
+
+#hello-image {
+  width: 960px;
+  height: 450px;
+  border: 2px black solid;
+}
+#feature div {
+  display: inline;
+  width: 480;
+  height: 400;
+  border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
 #call-to-action {
   background-color: powderblue;
   transition: background-color .5s;
